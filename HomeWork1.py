@@ -1,6 +1,6 @@
 print('HomeWork1')
 import random
-n=int(input('Ведите кол-во монет: '))
+n=int(input('Введите кол-во монет: '))
 k=0
 for i in range(n):
     r=random.randint(0,1)
